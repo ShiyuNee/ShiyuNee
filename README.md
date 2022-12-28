@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Shiyu Ni
 - 👀 I’m interested in information retrieval
-- 😙I will graduate from Shandong University as an undergraduate in June 2023 and pursue my Ph.D. at ICT,CAS,advised by Jiafeng Guo.
+- 😙 I will graduate from Shandong University as an undergraduate in June 2023 and pursue my Ph.D. at ICT,CAS,advised by Jiafeng Guo.
+- 📧 My email is: shiyuni.nsy@gmail.com
 
 
 <!---
