@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shiyu Ni
-- 👀 I’m interested in information retrieval
+- 👀 I’m interested in information retrieval and LLMs
 - 😙 I am a first-year Ph.D. student at the Institute of Computing Technology, Chinese Academy of Sciences, under the guidance of Prof. Jiafeng Guo and Prof. Keping Bi.
 - 📧 My email is: nishiyu23z@ict.ac.cn
 
